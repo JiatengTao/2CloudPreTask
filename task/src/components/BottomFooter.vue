@@ -38,11 +38,11 @@
         <el-col :xs="24" :sm="12" :md="5" class="footer-container">
             <div class="footer-title">Easy Online Shopping</div>
             <el-row justify="start" align="middle" >
-                <img src="freedelivery.png" style="width: 30px; height: 30px;margin-right: 5px;"/>
+                <img src="/freedelivery.png" style="width: 30px; height: 30px;margin-right: 5px;"/>
                 <p>Free Delivery</p>
             </el-row>
             <el-row justify="start" align="middle" >
-                <img src="14return.png" style="width: 30px; height: 30px;margin-right: 5px;"/>
+                <img src="/14return.png" style="width: 30px; height: 30px;margin-right: 5px;"/>
                 <p>14 Days Return</p>
             </el-row>
         </el-col>

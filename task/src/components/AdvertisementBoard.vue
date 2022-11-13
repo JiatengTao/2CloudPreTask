@@ -12,40 +12,40 @@
     </el-row>
     <el-row class="glossory">
         <el-col :xs="8" :sm="4">
-            <img src="ad1.png"/>
+            <img src="/ad1.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad2.png"/>
+            <img src="/ad2.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad3.png"/>
+            <img src="/ad3.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad4.png"/>
+            <img src="/ad4.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad5.png"/>
+            <img src="/ad5.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad6.png"/>
+            <img src="/ad6.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad7.png"/>
+            <img src="/ad7.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad8.png"/>
+            <img src="/ad8.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad9.png"/>
+            <img src="/ad9.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad10.png"/>
+            <img src="/ad10.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad11.png"/>
+            <img src="/ad11.png"/>
         </el-col>
         <el-col :xs="8" :sm="4">
-            <img src="ad1.png"/>
+            <img src="/ad1.png"/>
         </el-col>
     </el-row>
     <el-row>
