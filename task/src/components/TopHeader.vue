@@ -1,7 +1,6 @@
 <script setup>
-    import socialIcons from "./icons/SocialIcons.vue"
-    import { ref } from 'vue'
-    const input = ref('')
+  import socialIcons from "./icons/SocialIcons.vue"
+  import Search from "./Search.vue";
 </script>
 
 <template>
@@ -38,15 +37,7 @@
             Quality + Services <br/>Lowest Prices
         </span>
       </el-col> 
-      <el-col :xs="0" :sm="20" :lg="6" class="searchbox-container">
-        <el-input v-model="input" placeholder="Search for items">
-            <template #append>
-            <el-button>
-                <el-icon size="20" ><search /></el-icon>
-            </el-button>
-            </template>
-        </el-input>
-      </el-col>
+        <Search/>
       <el-col :xs="6" :sm="0"></el-col>
       <el-col :xs="9" :sm="4" :lg="3" class="topcart-container">
         <img src="/topcart.png"/>
