@@ -78,8 +78,8 @@
     font-weight: 700;
 }
 ::v-deep .el-descriptions__body .el-descriptions__table .el-descriptions__cell {
-    font-size: 14px;
-    padding-right: 20px;
+    font-size: 12px;
+    padding-right: 10px;
 }
 ::v-deep .el-descriptions__body {
     background-color:transparent;
